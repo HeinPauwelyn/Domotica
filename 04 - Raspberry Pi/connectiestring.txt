@@ -1,0 +1,1 @@
+HostName=domotica-nmct.azure-devices.net;DeviceId=pi-Hein;SharedAccessKey=I3yElaoN0xKgHy+Ri6oGwcC6OKCIxZlSIJ0ZYqfh/Uc=;GatewayHostName=ssl://domotica-howest.azure-devices.net:8883
