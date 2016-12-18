@@ -218,7 +218,7 @@ void sendGPSData() {
 //	debugSerial.print(F("Spreading factor : "));
 //	debugSerial.println(modem.getSpreadingFactor());
 	gpsSensor.setLongitude(4.35844212770462);
-	gpsSensor.setLatitude(50.86034364457187);
+	gpsSensor.setLatitude(50.86034364457187);t
 	gpsSensor.setAltitude(altitude);
 	altitude += 3.75;
 	debugSerial.print(F("Sending GPS data : [lon : "));
